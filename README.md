@@ -1,2 +1,2 @@
 # matmash.com
-Matmash Bog
+Mat's Video Blog
